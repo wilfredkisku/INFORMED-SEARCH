@@ -1,4 +1,4 @@
-# informed Search
+# Informed Search
 Informed search for N puzzle problem
 
 # Program details
