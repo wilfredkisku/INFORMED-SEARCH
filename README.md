@@ -6,3 +6,5 @@ The program returns the list of steps that needs to be followed to reach the sol
 
 Execution:
 python __main__.py (N puzzle)
+
+Status: Completed
